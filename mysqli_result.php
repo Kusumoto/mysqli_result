@@ -1,7 +1,7 @@
 <?php
 
 /*
-mysql_result for mysqli_result
+mysql_result for MySQLi
 by :: Kusumoto
 http://kusumotolab.com
 */
