@@ -1,4 +1,4 @@
 mysqli_result
 =============
 
-mysql_result function for mysqli
+The Function mysql_result for MySQLi
